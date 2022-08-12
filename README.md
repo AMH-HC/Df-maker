@@ -5,4 +5,4 @@ pkg upgrade
 pkg install python3   
 git clone https://github.com/AMH-HC/Df-maker.git       
 cd Df-maker         
-python3 lol.py
+python3 lee.py
